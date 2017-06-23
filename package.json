@@ -1,0 +1,26 @@
+{
+  "name": "monitoring-app",
+  "version": "1.0.0",
+  "description": "Monitoring App of sources.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "fonte",
+    "teste",
+    "bairros",
+    "node"
+  ],
+  "author": "Henrique Chaves",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.4.2",
+    "moment": "^2.18.1",
+    "node-rest-client": "^3.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2"
+  }
+}
